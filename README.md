@@ -1,2 +1,2 @@
 # Hucker-news
-This is a hucking news app, working from WeebKit and made by SwiftUI 
+This is a hacking news app, working from WeebKit and made by SwiftUI 
